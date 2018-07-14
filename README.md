@@ -1,5 +1,5 @@
-JavaFX Hello World Demo
+JavaFX Layout HBox Demo
 =======================
 
-Show a window with `Hello, JavaFX` label.
+Layout -> `HBox`
 
